@@ -156,7 +156,7 @@
       <div class="socialscontent">
         <iframe
           title="discord"
-          src="https://discord.com/widget?id=1087433522760929350&theme=dark"
+          src="https://discord.com/widget?id=1283121265309384807&theme=dark"
           width="350"
           height="700"
           style="margin-left: 32px;"
@@ -168,7 +168,7 @@
             class="twitter-timeline"
             data-theme="dark"
             href="https://twitter.com/BigJax369?ref_src=twsrc%5Etfw"
-            >Tweets by jax</a
+            >Posts from MinecraftBeta.net</a
           >
           <script
             async
@@ -184,6 +184,6 @@
 <!-- pagecenter end-->
 
 <div class="footer" id="footer">
-  Made with ❤️ by <a href="http://twitter.com/bigjax_eth/">BigJax</a>.
+  Made with ❤️ by <a href="http://twitter.com/BigJax369/">BigJax</a>.
   <!-- Copyright 2009-2011 Mojang AB. <a href="http://www.minecraft.net/copyright.jsp">Terms and conditions</a>. <a href="http://www.minecraft.net/credits.jsp">Credits</a>. -->
 </div>
